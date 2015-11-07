@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=tinyCameraMonitor_daemon
+Icon=/usr/share/tinyCameraMonitor/tinyCameraMonitor.svg
+Name=Tiny Camera Monitor
+Comment=Tiny Camera Monitor
+GenericName=Camera Activity Monitor
