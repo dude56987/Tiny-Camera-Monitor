@@ -6,6 +6,6 @@ Installed-Size: 48
 Homepage: hacker-haven.com
 Priority: optional
 Architecture: all
-Depends: python (>=2.7), redshift
+Depends: python2
 Description: A lightweight program to monitor if you webcam is activated.
  A lightweight program to monitor if you webcam is activated. If the webcam is activated you will be notified by libnotify.
